@@ -15,3 +15,10 @@ https://github.com/jorgimello/meta-learning-facial-expression-recognition
 https://github.com/GeorgiosKyritsis/Facial_emotion_recognition
 
 6、https://github.com/smilelab/smilelab.github.io
+
+
+
+
+Dataset:
+
+1、MUG Facial Expression Database：https://mug.ee.auth.gr/fed/
