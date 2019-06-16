@@ -22,3 +22,6 @@ https://github.com/GeorgiosKyritsis/Facial_emotion_recognition
 Dataset:
 
 1、MUG Facial Expression Database：https://mug.ee.auth.gr/fed/
+
+Model:
+1. VGG-face: http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
